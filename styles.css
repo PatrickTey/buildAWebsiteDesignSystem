@@ -1,0 +1,95 @@
+* {
+  padding: 0px;
+  font-family: Verdana;
+}
+/* Head section  with colors*/
+header {
+  font-size: 20px;
+  font-weight: 700;
+}
+.colors {
+  border: 0.5px solid black;
+  padding: 15px;
+  margin: 2.5px;
+}
+#biege {
+  background-color: #f5f5dc;
+  display: inline-block;
+  /* padding: 20px 60px; */
+  height: 60px;
+  width: 125px;
+  text-align: center;
+  margin: 5px;
+}
+#blue {
+  background-color: blue;
+  display: inline-block;
+  /* padding: 20px 60px; */
+  color: aliceblue;
+  height: 60px;
+  width: 125px;
+  text-align: center;
+  margin: 5px;
+}
+#pink {
+  background-color: #ffc0cb;
+  display: inline-block;
+  height: 60px;
+  width: 125px;
+  text-align: center;
+  margin: 5px;
+}
+#green {
+  background-color: #adff2f;
+  display: inline-block;
+  height: 60px;
+  width: 125px;
+  text-align: center;
+  margin: 5px;
+}
+
+/* Font section */
+.font {
+  border: 0.5px solid black;
+  margin: 2.5px;
+  padding: 15px;
+  font-size: 10px;
+}
+#fonthead {
+  font-weight: bold;
+}
+.Calibri {
+  font-family: Calibri;
+  margin: 10px;
+  display: inline-block;
+  width: 45%;
+}
+.TimesNewRoman {
+  font-family: "Times New Roman";
+  margin: 10px;
+  display: inline-block;
+  width: 45%;
+}
+.sans-serif {
+  font-family: sans-serif;
+  margin: 10px;
+  display: inline-block;
+  width: 45%;
+}
+.italic {
+  font-style: italic;
+}
+.bold {
+  font-weight: 700;
+}
+
+/* Styles section */
+.styles {
+  border: 0.5px solid black;
+  padding: 15px;
+  margin: 2.5px;
+  font-size: 10px;
+}
+.styles ul {
+  padding: 10px;
+}
